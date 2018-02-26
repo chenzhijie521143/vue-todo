@@ -1,8 +1,5 @@
 ## About
-<<<<<<< HEAD
-=======
-***
->>>>>>> origin/master
+
 这是慕课网上[vue+webpack打造todo应用](https://www.imooc.com/comment/935)课程的纯手打代码
 
 # 使用方法
